@@ -190,3 +190,9 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+*.csproj
+
+MEMEUnity/Library/*
+*.userprefs
+
+*.sln
