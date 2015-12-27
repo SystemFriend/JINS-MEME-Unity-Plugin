@@ -11,3 +11,11 @@ JINS MEME SDK 1.0.6とUnity5.3.1で開発しています。
 - Xcodeで書き出したプロジェクトを開きビルドターゲット"Unity-iPhone"のBuild Phases-Copy FilesにXCodeプロジェクト内にあるMEMELib.frameworkをDestination"Frameworks"を指定して追加してください、
 
 ![xcodesetting](https://raw.githubusercontent.com/SystemFriend/JINS-MEME-Unity-Plugin/master/XcodeSetting.png "Xcodeプロジェクト設定")
+
+# サンプル動作イメージ
+
+https://www.facebook.com/systemfriend/videos/960622957363684/
+
+※GitHub公開版の3DモデルはSDユニティちゃんではありません。
+
+![memeunitysample](http://www.systemfriend.co.jp/files/u/blog/maemoto/meme.png "MEME Unityサンプルイメージ")
