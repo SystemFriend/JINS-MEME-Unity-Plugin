@@ -193,6 +193,8 @@ ModelManifest.xml
 *.csproj
 
 MEMEUnity/Library/*
+MEMEUnity/Assets/Editor/Files/MEMELib.framework
+MEMEUnity/Temp
 *.userprefs
 
 *.sln
